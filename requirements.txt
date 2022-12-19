@@ -1,0 +1,2 @@
+sqlparse==0.4.3
+pyTelegramBotAPI==4.8.0
